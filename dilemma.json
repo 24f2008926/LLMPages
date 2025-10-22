@@ -1,0 +1,5 @@
+{
+    "people": 3,
+    "case_1": {"swerve": true, "reason": "The autonomous vehicle should swerve to minimize harm, prioritizing the life of a child over two criminals."},
+    "case_2": {"swerve": false, "reason": "In this case, the vehicle should not swerve since the two individuals are criminals, suggesting a moral complexity to the decision."}
+}

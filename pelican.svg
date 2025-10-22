@@ -1,0 +1,8 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="100" cy="100" r="70" fill="lightblue"/>
+    <path d="M70,140 C70,100 130,100 130,140 Q110,160 90,140 Q70,160 70,140" fill="orange"/>
+    <rect x="95" y="60" width="10" height="40" fill="brown"/>
+    <path d="M100,60 Q90,40 80,60" fill="white"/>
+    <path d="M80,60 Q90,70 100,60" fill="white"/>
+    <path d="M150,140 Q160,130 170,140" fill="black"/>
+</svg>
